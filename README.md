@@ -7,40 +7,8 @@
     ----------------------------------------------------------------- 
 
 
-Welcome to your Python project on Cloud9 IDE!
+Hi! This is my python to do list project using cloud9 IDE. It's my new love as it is fast and reliable. I do need internet connection though(well apparently...as it is in the clouds! ). I developed this simple application through the help of git version control, MongoDB and Flask Framework. And to host a cloud application, apparently I used Heroku. It takes a while to set it up as I kept running into "Applicaiton Error" issue with error H14, which is caused by the Procfile that aborts web processing on my local host. It was fixed through scaling the process type using "heroku ps:scale web=1"
 
-To show what Cloud9 can do, we added a basic sample web application to this
-workspace, from the excellent Python tutorial _Learning Python the Hard Way_.
-We skipped ahead straight to example 50 which teaches how to build a web
-application.
+This is an ongoing project and special credits to Douglass Starnes for posting the walk-through of developing python APP using cloud9 IDE and Flask Framework. 
 
-If you've never looked at the tutorial or are interested in learning Python,
-go check it out. It's a great hands-on way for learning all about programming
-in Python.
-
-* _Learning Python The Hard Way_, online version and videos: 
-http://learnpythonthehardway.org/book/
-
-* Full book: http://learnpythonthehardway.org
-
-## Starting from the Terminal
-
-To try the example application, type the following in the terminal:
-
-```
-cd ex50
-python bin/app.py
-```
-
-Alternatively, open the file in ex50/bin and click the green Run
-button!
-
-## Configuration
-
-You can configure your Python version and `PYTHONPATH` used in
-Cloud9 > Preferences > Project Settings > Language Support.
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE.
-To watch some training videos, visit http://www.youtube.com/user/c9ide.
+This project is merely for outside-the-classroom practices purposes. Let me know if you want to collaborate
